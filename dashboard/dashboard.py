@@ -206,7 +206,7 @@ def binning(data, bins, labels, col_name):
     return data
 
 # Load data
-days_df = pd.read_csv("day_clean.csv")
+days_df = pd.read_csv("dashboard/day_clean.csv")
 days_df['dteday'] = pd.to_datetime(days_df['dteday'])
 
 # Mengelompokkan data
