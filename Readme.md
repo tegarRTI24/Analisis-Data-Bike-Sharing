@@ -19,7 +19,7 @@ Pada proyek ini dibuat untuk menganalisis hasil dari data bike sharing sehingga 
 1. Clone repository ini ke komputer lokal Anda menggunakan perintah berikut:
 
    ```shell
-   git clone 
+   git clone https://github.com/tegarRTI24/Analisis-Data-Bike-Sharing
    ```
 
 2. Pastikan Anda memiliki lingkungan Python yang sesuai dan pustaka-pustaka yang diperlukan. Anda dapat menginstal pustaka-pustaka tersebut dengan menjalankan perintah berikut:
@@ -36,7 +36,7 @@ Pada proyek ini dibuat untuk menganalisis hasil dari data bike sharing sehingga 
     cd bike-sharing/dashboard/
     streamlit run dashboard.py
     ```
-    Atau bisa dengan kunjungi website ini [Project Data Analytics]
+    Atau bisa dengan kunjungi website ini [Project Data Analytics](https://bikesharinganalysistegar.streamlit.app/)
 
 ## Kontribusi
 Anda juga dapat berkontribusi pada proyek ini dengan melakukan pull request kepada github ini. Pastikan untuk menjelaskan perubahan yang Anda usulkan secara jelas dan menyeluruh agar tidak ada ketimpangan informasi di page ini.
